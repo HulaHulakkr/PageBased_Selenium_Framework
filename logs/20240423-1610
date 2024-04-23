@@ -1,0 +1,32 @@
+Log Name: 20240423-1610
+Log Time: Tue Apr 23 16:10:28 2024 Week 17
+Log Level: 20(console) 20(file)
+Back count: 100
+
+Function 1: Task List display (Intranet)
+Time mark start: 2024-04-23 16:10:36.799949
+Time mark stop: 2024-04-23 16:10:38.504439
+Function 1 loading time: 1.7
+
+Function 2: Search Projects load
+Time mark start: 2024-04-23 16:10:42.611070
+Time mark stop: 2024-04-23 16:10:43.013150
+Function 2 loading time: 0.4
+
+Function 3: KR document browse
+Time mark start: 2024-04-23 16:10:47.218185
+Time mark stop: 2024-04-23 16:10:57.583259
+Function 3 loading time: 10.37
+
+Function 4: Testing document update into CABIN
+Time mark start: 2024-04-23 16:11:08.496236
+Time mark stop: 2024-04-23 16:11:11.761131
+Function 4 loading time: 3.26
+
+Function 5: Testing document download from CABIN
+Time mark start: 2024-04-23 16:11:14.953165
+Time mark stop: 2024-04-23 16:11:16.608487
+Function 5 loading time: 1.66
+
+Successfully log out!
+Login Fails, Please login on time!
